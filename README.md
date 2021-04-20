@@ -49,6 +49,7 @@ Note: This does not mean Random Forest can not be implemented for this dataset, 
 * The optimal algorithm is SVC with TF-IDF(C=10,loss='hinge). 
 * Confusion matrix and ROC of the predictor's performance on the test set is impressive: majority of the values of the confusion matrix is in the diagonal, and AUC is mostly 1. 
 * The final predictor achieves an accuacy of 99% on the test set data! 
+
 ![image](https://user-images.githubusercontent.com/29676594/115344869-fc3f7a80-a17b-11eb-8a99-8afbf642d8be.png)
 ![image](https://user-images.githubusercontent.com/29676594/115344878-ff3a6b00-a17b-11eb-9061-688cfce3e515.png)
  
